@@ -1,0 +1,14 @@
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\bin\Debug\net8.0\PracticaEF.exe
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\bin\Debug\net8.0\PracticaEF.deps.json
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\bin\Debug\net8.0\PracticaEF.runtimeconfig.json
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\bin\Debug\net8.0\PracticaEF.dll
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\bin\Debug\net8.0\PracticaEF.pdb
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.AssemblyInfoInputs.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.AssemblyInfo.cs
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.csproj.CoreCompileInputs.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.dll
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\refint\PracticaEF.dll
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.pdb
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\PracticaEF.genruntimeconfig.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaEF\PracticaEF\obj\Debug\net8.0\ref\PracticaEF.dll

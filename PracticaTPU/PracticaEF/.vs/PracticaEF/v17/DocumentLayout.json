@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mate_\\Desktop\\Proyecto\\PracticaTPU\\PracticaEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654AEC5B-DA21-4CAD-A4F5-BC97F0FFB69F}|PracticaEF\\PracticaEF.csproj|c:\\users\\mate_\\desktop\\proyecto\\practicatpu\\practicaef\\practicaef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654AEC5B-DA21-4CAD-A4F5-BC97F0FFB69F}|PracticaEF\\PracticaEF.csproj|solutionrelative:practicaef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654AEC5B-DA21-4CAD-A4F5-BC97F0FFB69F}|PracticaEF\\PracticaEF.csproj|C:\\Users\\mate_\\Desktop\\Proyecto\\PracticaTPU\\PracticaEF\\practicaef\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654AEC5B-DA21-4CAD-A4F5-BC97F0FFB69F}|PracticaEF\\PracticaEF.csproj|solutionrelative:practicaef\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\mate_\\Desktop\\Proyecto\\PracticaTPU\\PracticaEF\\PracticaEF\\Orden.cs",
+              "RelativeDocumentMoniker": "PracticaEF\\Orden.cs",
+              "ToolTip": "C:\\Users\\mate_\\Desktop\\Proyecto\\PracticaTPU\\PracticaEF\\PracticaEF\\Orden.cs",
+              "RelativeToolTip": "PracticaEF\\Orden.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:10:36.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mate_\\Desktop\\Proyecto\\PracticaTPU\\PracticaEF\\PracticaEF\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaEF\\Program.cs",
+              "ToolTip": "C:\\Users\\mate_\\Desktop\\Proyecto\\PracticaTPU\\PracticaEF\\PracticaEF\\Program.cs",
+              "RelativeToolTip": "PracticaEF\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:06:52.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

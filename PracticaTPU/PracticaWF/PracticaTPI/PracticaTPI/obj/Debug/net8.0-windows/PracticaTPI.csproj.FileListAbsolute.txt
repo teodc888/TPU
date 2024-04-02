@@ -1,0 +1,16 @@
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\bin\Debug\net8.0-windows\PracticaTPI.exe
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\bin\Debug\net8.0-windows\PracticaTPI.deps.json
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\bin\Debug\net8.0-windows\PracticaTPI.runtimeconfig.json
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\bin\Debug\net8.0-windows\PracticaTPI.dll
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\bin\Debug\net8.0-windows\PracticaTPI.pdb
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.Form1.resources
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.csproj.GenerateResource.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.AssemblyInfoInputs.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.AssemblyInfo.cs
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.csproj.CoreCompileInputs.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.dll
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\refint\PracticaTPI.dll
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.pdb
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\PracticaTPI.genruntimeconfig.cache
+C:\Users\mate_\Desktop\Proyecto\PracticaTPU\PracticaWF\PracticaTPI\PracticaTPI\obj\Debug\net8.0-windows\ref\PracticaTPI.dll
